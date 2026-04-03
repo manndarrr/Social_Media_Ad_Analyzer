@@ -42,7 +42,7 @@ Through rigorous data modeling and visualization, the following trends were iden
 
 ## 📸 Dashboard Preview
 <p align="center">
-  <img src="[https://via.placeholder.com/800x450.png?text=Power+BI+Dashboard+Screenshot+Placeholder](https://github.com/manndarrr/Social_Media_Ad_Analyzer/blob/main/Social_Media_Ad_Analyzer.jpeg)" width="800" title="Dashboard Overview">
+  <img src="Social_Media_Ad_Analyzer.jpeg" width="800" title="Dashboard Overview">
 </p>
 
 ---
