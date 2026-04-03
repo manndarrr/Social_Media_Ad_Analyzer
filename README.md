@@ -42,7 +42,7 @@ Through rigorous data modeling and visualization, the following trends were iden
 ---
 
 ## Author
-**Mandar Deshmukh** *Computer Science & Engineering Student* [LinkedIn](https://linkedin.com/in/your-profile)
+**Mandar Deshmukh** *Computer Science & Engineering Student* [LinkedIn](https://linkedin.com/in/mandar-deshmukh-0810402b2)]
 
 ---
 <div align="center">
