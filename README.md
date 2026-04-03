@@ -1,12 +1,6 @@
 <div align="center">
   <h1>📊 Social Media Ad Analyzer</h1>
   <p><strong>Meta Ads Performance Dashboard | Power BI | Data Analytics</strong></p>
-  
-  <p>
-    <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
-    <img src="https://img.shields.io/badge/Data-Analysis-blue?style=for-the-badge" alt="Data Analysis" />
-    <img src="https://img.shields.io/badge/Meta-Ads-0668E1?style=for-the-badge&logo=meta&logoColor=white" alt="Meta Ads" />
-  </p>
 </div>
 
 ---
