@@ -1,21 +1,21 @@
 <div align="center">
-  <h1>📊 Social Media Ad Analyzer</h1>
+  <h1>Social Media Ad Analyzer</h1>
   <p><strong>Meta Ads Performance Dashboard | Power BI | Data Analytics</strong></p>
 </div>
 
 ---
 
-## 📝 Project Overview
+## Project Overview
 Developed a comprehensive **Power BI Dashboard** to analyze Meta Ads performance data. The project transforms raw marketing exports into actionable insights, focusing on audience segmentation, regional performance, and creative effectiveness.
 
-### 🎯 Key Objectives
+### Key Objectives
 * **Performance Tracking:** Monitoring real-time KPIs like CTR, CPC, and Conversions.
 * **Audience Profiling:** Identifying high-value demographics.
 * **Optimization:** Providing data-driven recommendations for budget reallocation.
 
 ---
 
-## 🚀 Key Insights & Findings
+## Key Insights & Findings
 Through rigorous data modeling and visualization, the following trends were identified:
 
 * **Top Performing Demographic:** High engagement observed in the **Female (18–30)** age bracket.
@@ -24,7 +24,7 @@ Through rigorous data modeling and visualization, the following trends were iden
 
 ---
 
-## 🛠️ Tech Stack & Skills
+## Tech Stack & Skills
 | Category | Tools / Skills |
 | :--- | :--- |
 | **Visualization** | Power BI Desktop, Power Query |
@@ -34,14 +34,14 @@ Through rigorous data modeling and visualization, the following trends were iden
 
 ---
 
-## 📸 Dashboard Preview
+## Dashboard Preview
 <p align="center">
   <img src="Social_Media_Ad_Analyzer.jpeg" width="800" title="Dashboard Overview">
 </p>
 
 ---
 
-## 👤 Author
+## Author
 **Mandar Deshmukh** *Computer Science & Engineering Student* [LinkedIn](https://linkedin.com/in/your-profile) | [Portfolio](https://yourportfolio.com)
 
 ---
